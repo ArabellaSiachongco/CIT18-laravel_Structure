@@ -1,2 +1,2 @@
-# CIT18-laravel_Structure
-Explore Laravel's File Structure
+# CIT18-Laravel Activities
+beginner level, laravel structures and routes, controllers and blade
